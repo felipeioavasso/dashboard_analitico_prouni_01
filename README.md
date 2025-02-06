@@ -1,4 +1,4 @@
-📊 Dashboard Analítico PROUNI 01
+📊 Dashboard Analítico PROUNI 01 - Nível Estratégico
 
 🔍 Descrição do Projeto
 Este dashboard apresenta a análise das bolsas concedidas pelo Programa Universidade para Todos (PROUNI) no período de 2015 a 2019, destacando informações como:
